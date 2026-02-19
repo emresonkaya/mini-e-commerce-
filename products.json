@@ -1,0 +1,32 @@
+[
+    {
+        "id": "P1001",
+        "name": "USB-C Cable",
+        "price": 9.99,
+        "stock": 17
+    },
+    {
+        "id": "P1002",
+        "name": "Wireless Mouse",
+        "price": 19.99,
+        "stock": 15
+    },
+    {
+        "id": "P1003",
+        "name": "Keyboard",
+        "price": 49.99,
+        "stock": 10
+    },
+    {
+        "id": "P1004",
+        "name": "Gaming Monitor",
+        "price": 120.0,
+        "stock": 3
+    },
+    {
+        "id": "P1005",
+        "name": "Laptop Stand",
+        "price": 25.5,
+        "stock": 20
+    }
+]
